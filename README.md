@@ -1,0 +1,2 @@
+# cuboidqtmsngl
+Cuboid Quantum Singularities
