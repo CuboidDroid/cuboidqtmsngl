@@ -26,7 +26,6 @@ Here is an example of the Iron Quantum Singularity, which requires 640 iron ingo
   "input": "#forge:ingots/iron",
   "outputKey": "iron_qs",
   "timeMultiplier": 1,
-  "energyMultiplier": 1,
   "foreground": "#DDDDDD",
   "background": "#888888"
 }
@@ -38,7 +37,6 @@ The values in the JSON file are as follows:
 * **input** - a resource key for an item or tag. If using a tag, specify with a prefix of `#`
 * **outputKey** - must be unique across all quantum singularities. The recommended naming convention is `{input_material}_qs`. These will be available as items with resource location of `cuboidqtmsngl:{input_material}_qs` - so for the iron example above, the item will have a resource location of `cuboidqtmsngl:iron_qs` and the name for it can be provided in a lang file using the key `item.cuboidqtmsngl.iron_qs`
 * **timeMultiplier** - multiplies the base time of the Quantum Collapser in use by this amount to determine the total time for producing this singularity.
-* **energyMultiplier** -  multiplies the base energy used of the Quantum Collapser in use by this amount to determine the total energy consumed when producing this singularity.
 * **foreground** - the RGB colour to tint the foreground layer of the Quantum Singularity item.
 * **background** - the RGB colour to tint the background layer of the Quantum Singularity item.
 
