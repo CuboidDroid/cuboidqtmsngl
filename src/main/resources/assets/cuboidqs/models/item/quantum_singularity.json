@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "cuboidqs:item/quantum_singularity",
+    "layer1": "cuboidqs:item/quantum_singularity_overlay"
+  }
+}

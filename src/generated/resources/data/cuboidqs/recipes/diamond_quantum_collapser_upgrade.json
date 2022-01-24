@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " $ ",
+    "#@#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:diamond_block"
+    },
+    "$": {
+      "item": "minecraft:blast_furnace"
+    },
+    "@": {
+      "item": "cuboidqs:gold_quantum_collapser"
+    }
+  },
+  "result": {
+    "item": "cuboidqs:diamond_quantum_collapser"
+  }
+}

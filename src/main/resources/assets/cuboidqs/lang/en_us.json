@@ -1,0 +1,28 @@
+{
+  "block.cuboidqs.iron_quantum_collapser": "Iron Quantum Collapser",
+  "block.cuboidqs.gold_quantum_collapser": "Gold Quantum Collapser",
+  "block.cuboidqs.diamond_quantum_collapser": "Diamond Quantum Collapser",
+  "block.cuboidqs.emerald_quantum_collapser": "Emerald Quantum Collapser",
+  "block.cuboidqs.netherite_quantum_collapser": "Netherite Quantum Collapser",
+
+  "container.cuboidqs.iron_quantum_collapser": "Iron Quantum Collapser",
+  "container.cuboidqs.gold_quantum_collapser": "Gold Quantum Collapser",
+  "container.cuboidqs.diamond_quantum_collapser": "Diamond Quantum Collapser",
+  "container.cuboidqs.emerald_quantum_collapser": "Emerald Quantum Collapser",
+  "container.cuboidqs.netherite_quantum_collapser": "Netherite Quantum Collapser",
+
+  "item.cuboidqs.coal_qs": "Coal Quantum Singularity",
+  "item.cuboidqs.cobblestone_qs": "Cobblestone Quantum Singularity",
+  "item.cuboidqs.diamond_qs": "Diamond Quantum Singularity",
+  "item.cuboidqs.dirt_qs": "Dirt Quantum Singularity",
+  "item.cuboidqs.emerald_qs": "Emerald Quantum Singularity",
+  "item.cuboidqs.glowstone_qs": "Glowstone Quantum Singularity",
+  "item.cuboidqs.gold_qs": "Gold Quantum Singularity",
+  "item.cuboidqs.gravel_qs": "Gravel Quantum Singularity",
+  "item.cuboidqs.iron_qs": "Iron Quantum Singularity",
+  "item.cuboidqs.lapis_qs": "Lapis Quantum Singularity",
+  "item.cuboidqs.redstone_qs": "Redstone Quantum Singularity",
+  "item.cuboidqs.sand_qs": "Sand Quantum Singularity",
+
+  "jei.category.cuboidqs.collapsing": "Quantum Collapsing"
+}

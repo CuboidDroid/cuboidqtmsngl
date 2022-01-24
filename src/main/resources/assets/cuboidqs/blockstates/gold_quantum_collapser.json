@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "facing=north,lit=false": { "model": "cuboidqs:block/gold_quantum_collapser" },
+        "facing=east,lit=false": { "model": "cuboidqs:block/gold_quantum_collapser", "y": 90 },
+        "facing=south,lit=false": { "model": "cuboidqs:block/gold_quantum_collapser", "y": 180 },
+        "facing=west,lit=false": { "model": "cuboidqs:block/gold_quantum_collapser", "y": 270 },
+        "facing=north,lit=true": { "model": "cuboidqs:block/gold_quantum_collapser_lit" },
+        "facing=east,lit=true": { "model": "cuboidqs:block/gold_quantum_collapser_lit", "y": 90 },
+        "facing=south,lit=true": { "model": "cuboidqs:block/gold_quantum_collapser_lit", "y": 180 },
+        "facing=west,lit=true": { "model": "cuboidqs:block/gold_quantum_collapser_lit", "y": 270 }
+    }
+}
